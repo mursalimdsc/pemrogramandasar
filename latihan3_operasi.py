@@ -5,11 +5,11 @@ Created on Sun Nov  6 19:42:00 2022
 @author: salim
 """
 # Variabel
-var_a=2
+var_a=4
 
 nilai1 =2
 nilai2 =6
-nilai3 =10
+nilai3 =100
 nilai4 =9
 nilai5 =10
 
