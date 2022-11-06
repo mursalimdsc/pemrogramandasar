@@ -12,3 +12,9 @@ print(type(a))
 print(type(b))  
 print(type(c))  
 
+#Perhitungan
+perkalian = a*b
+penjumlahan = a+c
+
+print(perkalian)
+print(penjumlahan)
