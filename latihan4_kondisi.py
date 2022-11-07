@@ -11,6 +11,7 @@ prodi = input("Masukkan Program Studi: ")
 
 nilai = int(input("Masukkan Nilai: "))
 
+
 if(nilai) >=90:
     print ("Grade A")
 else:
@@ -23,3 +24,10 @@ def pekalian(a,b):
     hitung_perkalian = nilai_a*nilai_b
     
     return hitung_perkalian
+
+
+for i in range(1,10):
+    print(i)
+    
+    
+
