@@ -49,6 +49,7 @@ print( None is not None )
 print( (9 + 5) is (7 * 2))  
 print((5) is (10))
 print((5) is (5))
+print((10) is (7))
 
 print("===========================================================")
 # Program to show the use of keywords for, while, break, continue  
