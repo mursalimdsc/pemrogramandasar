@@ -7,7 +7,10 @@ Created on Mon Nov  7 11:20:26 2022
 
 nilai = int(input("Masukkan Nilai: "))
 
-if(nilai) >=90:
-    print ("Grade A")
-else:
-    print("Grade B")
+# Menerima Inputan
+nilai_inputan = input("Masukkan Nilai: ")
+
+for i in range(1,10):
+    print(i)
+    
+    
